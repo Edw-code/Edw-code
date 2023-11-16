@@ -1,4 +1,3 @@
-<img src="https://res.cloudinary.com/dcy3herhu/image/upload/v1698028653/dkm1iezrlplkeuh9v9mj.jpg" width="1200" height="200">
 
 ## Hola, mi nombre es Eduardo Solórzano 👋🏽!!
 Me encuentro en una etapa emocionante de formación como desarrollador Full Stack Junior en la academia Kodigo, donde estoy explorando apasionadamente el vasto mundo de la programación.
